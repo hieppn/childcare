@@ -1,0 +1,241 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "kindicare";
+  src:url("fonts/kindicare.eot");
+  src:url("fonts/kindicare.eot?#iefix") format("embedded-opentype"),
+    url("fonts/kindicare.woff") format("woff"),
+    url("fonts/kindicare.ttf") format("truetype"),
+    url("fonts/kindicare.svg#kindicare") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "kindicare" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+  font-family: "kindicare" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-ic-2pinmap:before {
+  content: "\61";
+}
+.icon-ic-abc:before {
+  content: "\62";
+}
+.icon-ic-addnew:before {
+  content: "\63";
+}
+.icon-ic-addnew2:before {
+  content: "\64";
+}
+.icon-ic-allergy:before {
+  content: "\65";
+}
+.icon-ic-application:before {
+  content: "\66";
+}
+.icon-ic-application-fill:before {
+  content: "\67";
+}
+.icon-ic-apron:before {
+  content: "\68";
+}
+.icon-ic-baby:before {
+  content: "\69";
+}
+.icon-ic-babycar:before {
+  content: "\6a";
+}
+.icon-ic-back:before {
+  content: "\6b";
+}
+.icon-ic-bag:before {
+  content: "\6c";
+}
+.icon-ic-boy:before {
+  content: "\6d";
+}
+.icon-ic-bus:before {
+  content: "\6e";
+}
+.icon-ic-cake:before {
+  content: "\6f";
+}
+.icon-ic-camera:before {
+  content: "\70";
+}
+.icon-ic-close-dropdown:before {
+  content: "\71";
+}
+.icon-ic-cost:before {
+  content: "\72";
+}
+.icon-ic-creditcard:before {
+  content: "\73";
+}
+.icon-ic-cube:before {
+  content: "\74";
+}
+.icon-ic-dropdown:before {
+  content: "\75";
+}
+.icon-ic-dropdown-2:before {
+  content: "\76";
+}
+.icon-ic-eye:before {
+  content: "\77";
+}
+.icon-ic-family:before {
+  content: "\78";
+}
+.icon-ic-filter:before {
+  content: "\79";
+}
+.icon-ic-girl:before {
+  content: "\7a";
+}
+.icon-ic-goinside:before {
+  content: "\41";
+}
+.icon-ic-grown:before {
+  content: "\42";
+}
+.icon-ic-hamburger:before {
+  content: "\43";
+}
+.icon-ic-heart:before {
+  content: "\44";
+}
+.icon-ic-heart2:before {
+  content: "\45";
+}
+.icon-ic-home:before {
+  content: "\46";
+}
+.icon-ic-home2:before {
+  content: "\47";
+}
+.icon-ic-horsetoy:before {
+  content: "\48";
+}
+.icon-ic-inhome:before {
+  content: "\49";
+}
+.icon-ic-kindi:before {
+  content: "\4a";
+}
+.icon-ic-languagelession:before {
+  content: "\4b";
+}
+.icon-ic-linen:before {
+  content: "\4c";
+}
+.icon-ic-location:before {
+  content: "\4d";
+}
+.icon-ic-mailbox:before {
+  content: "\4e";
+}
+.icon-ic-mailbox2:before {
+  content: "\4f";
+}
+.icon-ic-milkbottle:before {
+  content: "\50";
+}
+.icon-ic-moneyflower:before {
+  content: "\51";
+}
+.icon-ic-more:before {
+  content: "\52";
+}
+.icon-ic-more-fill:before {
+  content: "\53";
+}
+.icon-ic-nappy:before {
+  content: "\54";
+}
+.icon-ic-next:before {
+  content: "\55";
+}
+.icon-ic-nqsrating:before {
+  content: "\56";
+}
+.icon-ic-parking:before {
+  content: "\57";
+}
+.icon-ic-pen:before {
+  content: "\58";
+}
+.icon-ic-pinmap:before {
+  content: "\59";
+}
+.icon-ic-pinmap2:before {
+  content: "\5a";
+}
+.icon-ic-profile:before {
+  content: "\30";
+}
+.icon-ic-profile2:before {
+  content: "\31";
+}
+.icon-ic-run:before {
+  content: "\32";
+}
+.icon-ic-sandcastle:before {
+  content: "\33";
+}
+.icon-ic-search:before {
+  content: "\34";
+}
+.icon-ic-setting:before {
+  content: "\35";
+}
+.icon-ic-setting-fill:before {
+  content: "\36";
+}
+.icon-ic-share:before {
+  content: "\37";
+}
+.icon-ic-shield:before {
+  content: "\38";
+}
+.icon-ic-sort:before {
+  content: "\39";
+}
+.icon-ic-soup:before {
+  content: "\21";
+}
+.icon-ic-star-glyph:before {
+  content: "\22";
+}
+.icon-ic-star-outline:before {
+  content: "\23";
+}
+.icon-ic-swing:before {
+  content: "\24";
+}
+.icon-ic-warning:before {
+  content: "\25";
+}
